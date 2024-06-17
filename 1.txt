@@ -1,1 +1,14 @@
-sdfjgdshfg
+1. GIt inti--> just to local repositry
+2. create a online reposirty by sign in in githuib webiste
+3. git branch -M main---? connecting local to github repositry
+4. git add remote add "url"-->
+
+// file addings
+1. git add . /git add <filename>  -->adding files to stagging area
+2. git commit -m "message"--->commiting to the local repositry
+3. git push origin main -->pushing global reposirty
+4. git pull -->to get all the changes in the repositry
+5. git fetch
+
+
+sdsdf
